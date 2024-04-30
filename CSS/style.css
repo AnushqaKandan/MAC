@@ -12,4 +12,17 @@
 
 body{
     text-align: center;
+    color:darkblue
+}
+
+img[alt = "logo"]{
+    width: 300px;
+    margin-right: 1300px;
+    position: relative;
+    top: 50px;
+}
+
+.about{
+    width: 100px;
+    color:crimson
 }
